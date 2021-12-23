@@ -1,5 +1,7 @@
 - 👋 djt me m, bo m con dân đông lào
 - 📫 typical#0001
+- Chủ server SimpMC
+- Hong biết code
 
 ### Stats
 <div align="center">
