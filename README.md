@@ -1,6 +1,6 @@
 - 👋 Hello, contact me at: typical@simpmc.net
 - 📫 typical.smc
-- Chủ server SimpMC
+- 👑 Foudner at SimpMC
 
 ### Stats
 <div align="center">
