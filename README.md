@@ -1,6 +1,7 @@
-- 👋 Hello, contact me at: typical@simpmc.net
+- 👋 Hello, contact me at: typical@phomc.vn
 - 📫 typical.smc
-- 👑 Foudner at SimpMC
+- 👑 Former founder of Simpmc
+- 👑 Founder of PhoMC // phomc.vn
 
 ### Stats
 <div align="center">
