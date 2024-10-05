@@ -1,7 +1,7 @@
 - 👋 Hello, contact me at: typical@phomc.vn
 - 📫 typical.smc
-- 👑 Former founder of Simpmc
-- 👑 Founder of PhoMC // phomc.vn
+- 👑 Former founder of SimpMC / PhoMC
+- Former staff at MineAhihi
 
 ### Stats
 <div align="center">
