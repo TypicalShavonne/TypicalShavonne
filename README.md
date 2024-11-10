@@ -1,10 +1,8 @@
-- 👋 Hello, contact me at: typical@phomc.vn
-- 📫 typical.smc
-- 👑 Former founder of SimpMC / PhoMC
-- Former staff at MineAhihi
+<h1 align="center">Hii~ 😉, I'm Typical</h1>
+<h3 align="center">from Vietnam 😎</h3>
 
-### Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TypicalShavonne&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypicalShavonne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&langs_count=6&count_private=true" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TypicalShavonne&label=Profile%20views&color=0e75b6&style=flat" alt="TypicalShavonne" /> </p>
+
+- 📫 Reach me via **typical.smc** (Discord)
+
+- 📫 Reach me via **typical@phomc.vn** (Email)
