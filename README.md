@@ -5,4 +5,4 @@
 
 - 📫 Reach me via **typical.smc** (Discord)
 
-- 📫 Reach me via **typical@phomc.vn** (Email)
+- 📫 Reach me via **typical@typicalsmc.me** (Email)
