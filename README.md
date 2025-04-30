@@ -9,7 +9,7 @@
 * Pioneer in applying new tech in minecraft server industry
 * Worked at MineAhihi as Admin for 3 months
 * Current: Developing a new minecraft server!!!
-## 📚Certificates:
+## 📚 Certificates
 * Ielts 7.0 Overall
 ## 💻 Languages & Skills
 
@@ -19,7 +19,7 @@
     <strong>Java</strong> <em>(Fire)</em> — Learned it for minecraft ☕
   </p>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="JavaScript" width="35" height="35" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="35" height="35" /> 
     <strong>Bash</strong> <em>(Cooked)</em> — Automate stuff on Linux Systems ✨
   </p>
   <p>
